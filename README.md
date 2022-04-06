@@ -1,4 +1,6 @@
-### Hi there 👋
+![Andrej's GitHub stats](https://github-readme-stats.vercel.app/api?username=abenjak&count_private=true&theme=monokai)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abenjak&layout=compact&theme=monokai)](https://github.com/abenjak/github-readme-stats)
+
 
 <!--
 **abenjak/abenjak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
